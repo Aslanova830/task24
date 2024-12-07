@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+.bg{
+    background-image: url(./img/image.jpg);
+    background-repeat: no-repeat;
+    height: 110vh;
+   background-size: cover;
+
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
